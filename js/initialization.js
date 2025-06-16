@@ -574,7 +574,7 @@ function createAdminAccount() {
             fullname: "Nguyễn Thanh Kỳ",
             phone: "thanhcy",
             password: "123456",
-            address: 'https://github.com/hgbaodev',
+            address: 'https://github.com/thanhcy06',
             email: 'musicanime2501@gmail.com',
             status: 1,
             join: new Date(),
